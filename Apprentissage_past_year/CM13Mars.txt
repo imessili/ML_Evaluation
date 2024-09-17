@@ -1,0 +1,15 @@
+deep learning 
+inconvénient :
+ -- calcule
+ -- bcp de données
+ -- hyperparamètre
+ -- explicabilité
+ avantage :
+ ++ performance (accurasy)
+--------------------------------------------------------
+apprentissage symbolique :
+
+importance des caractéristiques 
+
+Machine learning | DATa meaning
+optimiser un tache |comprendre un phénomène
